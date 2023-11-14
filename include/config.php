@@ -1,8 +1,8 @@
 <?php
 defined('server') ? null : define("server", "localhost");
-defined('user') ? null : define ("user", "root") ;
+defined('user') ? null : define ("user", "u801089727_sfa") ;
 defined('pass') ? null : define("pass","SfaPortal@123");
-defined('database_name') ? null : define("database_name", "sfa") ;
+defined('database_name') ? null : define("database_name", "u801089727_sfaportal") ;
 
 $this_file = str_replace('\\', '/', __File__) ;
 $doc_root = $_SERVER['DOCUMENT_ROOT'];
